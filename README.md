@@ -14,6 +14,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0367-valid-perfect-square](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
