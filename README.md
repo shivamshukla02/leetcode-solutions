@@ -12,6 +12,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0069-sqrtx](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -30,6 +31,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0050-powx-n](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -53,6 +55,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Enumeration
 |  |
 | ------- |
