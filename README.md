@@ -18,6 +18,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0509-fibonacci-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2235-add-two-integers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
