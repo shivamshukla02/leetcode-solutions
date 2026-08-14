@@ -10,6 +10,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0009-palindrome-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -86,4 +87,16 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
