@@ -107,8 +107,13 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | ------- |
 | [0035-search-insert-position](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
