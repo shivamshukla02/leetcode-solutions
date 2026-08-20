@@ -13,6 +13,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0202-happy-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -48,6 +49,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | ------- |
 | [0035-search-insert-position](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
 |  |
@@ -63,6 +65,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Enumeration
 |  |
@@ -94,6 +97,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | ------- |
 | [0202-happy-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,12 +113,14 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0035-search-insert-position](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
