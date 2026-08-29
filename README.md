@@ -31,6 +31,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2413-smallest-even-multiple](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2652-sum-multiples](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
