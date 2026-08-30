@@ -33,6 +33,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3959-check-good-integer](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3959-check-good-integer) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
 |  |
@@ -103,6 +104,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | ------- |
 | [0258-add-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0258-add-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3959-check-good-integer](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Hash Table
 |  |
 | ------- |
