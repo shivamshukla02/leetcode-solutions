@@ -33,6 +33,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1952-three-divisors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | ------- |
 | [1952-three-divisors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -127,6 +130,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Sorting
 |  |
 | ------- |
