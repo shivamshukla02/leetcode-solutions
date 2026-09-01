@@ -132,6 +132,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0217-contains-duplicate](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -143,6 +144,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0217-contains-duplicate](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Prefix Sum
 |  |
 | ------- |
