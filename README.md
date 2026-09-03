@@ -26,6 +26,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1486-xor-operation-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1688-count-of-matches-in-tournament](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -122,6 +123,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0258-add-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3959-check-good-integer](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Hash Table
