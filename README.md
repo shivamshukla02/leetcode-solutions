@@ -23,6 +23,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -96,6 +97,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0231-power-of-two](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0342-power-of-four) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Enumeration
 |  |
