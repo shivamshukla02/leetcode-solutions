@@ -28,6 +28,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2119-a-number-after-a-double-reversal](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2469-convert-the-temperature) |
@@ -130,6 +131,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0202-happy-number) |
+| [2396-strictly-palindromic-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -184,4 +186,8 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
