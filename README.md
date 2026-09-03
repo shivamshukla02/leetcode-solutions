@@ -43,6 +43,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2652-sum-multiples](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3099-harshad-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
