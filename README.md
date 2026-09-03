@@ -35,6 +35,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
