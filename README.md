@@ -40,6 +40,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3959-check-good-integer) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
@@ -121,6 +122,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0202-happy-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
+| [3945-digit-frequency-score](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
