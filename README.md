@@ -15,6 +15,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0258-add-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -218,6 +219,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
@@ -227,4 +229,20 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0605-can-place-flowers) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
