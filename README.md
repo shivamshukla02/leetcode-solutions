@@ -19,6 +19,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0326-power-of-three](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -133,6 +134,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -224,6 +226,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [3894-traffic-signal-color](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Greedy
 |  |
