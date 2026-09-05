@@ -181,6 +181,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1480-running-sum-of-1d-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -196,6 +197,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [2733-neither-minimum-nor-maximum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Prefix Sum
 |  |
 | ------- |
