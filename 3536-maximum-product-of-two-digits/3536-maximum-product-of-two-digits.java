@@ -6,7 +6,6 @@ class Solution {
             temp=temp/10;
             c++;}
             int a[] = new int[c];
-            int max = Integer.MIN_VALUE;
             for(int i=0;i<c;i++){
                 int d=n%10;
                 a[i]=d;
