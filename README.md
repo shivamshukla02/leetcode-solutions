@@ -34,6 +34,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1518-water-bottles](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1952-three-divisors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -239,6 +240,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0242-valid-anagram](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0504-base-7) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3894-traffic-signal-color](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Greedy
 |  |
