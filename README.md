@@ -60,6 +60,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3536-maximum-product-of-two-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3895-count-digit-appearances) |
@@ -70,6 +71,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | ------- |
 | [1952-three-divisors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Euclidean Algorithm
 |  |
