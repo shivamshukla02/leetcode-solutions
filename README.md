@@ -25,6 +25,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0509-fibonacci-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [1025-divisor-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -72,6 +73,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1025-divisor-game) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
@@ -245,6 +247,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
@@ -266,6 +269,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -274,4 +278,5 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
