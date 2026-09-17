@@ -262,6 +262,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0504-base-7](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0504-base-7) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3110-score-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Greedy
 |  |
