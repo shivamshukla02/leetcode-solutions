@@ -121,6 +121,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0231-power-of-two](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0832-flipping-an-image](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Enumeration
@@ -155,6 +156,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | ------- |
 | [0258-add-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1518-water-bottles](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -182,6 +184,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0202-happy-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0832-flipping-an-image](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [2000-reverse-prefix-of-word](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2396-strictly-palindromic-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Floyd's Cycle Finding Algorithm
@@ -202,6 +205,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0605-can-place-flowers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0832-flipping-an-image](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -312,6 +316,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
