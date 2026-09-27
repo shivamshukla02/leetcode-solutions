@@ -174,6 +174,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0242-valid-anagram](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3945-digit-frequency-score) |
@@ -212,6 +213,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1572-matrix-diagonal-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -254,6 +256,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | ------- |
 | [0169-majority-element](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
