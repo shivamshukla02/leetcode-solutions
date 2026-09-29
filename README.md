@@ -165,6 +165,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2169-count-operations-to-obtain-zero](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3959-check-good-integer) |
@@ -219,6 +220,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -240,6 +242,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0414-third-maximum-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
@@ -326,9 +329,14 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0832-flipping-an-image](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Combinatorics
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
