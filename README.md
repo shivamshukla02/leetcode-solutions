@@ -298,6 +298,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0504-base-7](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0504-base-7) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2000-reverse-prefix-of-word](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3110-score-of-a-string) |
