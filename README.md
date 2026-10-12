@@ -270,6 +270,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2500-delete-greatest-value-in-each-row](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2706-buy-two-chocolates](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -312,6 +313,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2465-number-of-distinct-averages](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2706-buy-two-chocolates](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2974-minimum-number-game) |
@@ -375,6 +377,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [2706-buy-two-chocolates](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 ## Minimax
 |  |
 | ------- |
