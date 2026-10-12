@@ -179,6 +179,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2221-find-triangular-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2974-minimum-number-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3894-traffic-signal-color) |
@@ -265,6 +266,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2942-find-words-containing-character](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -300,6 +302,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2500-delete-greatest-value-in-each-row](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -402,6 +405,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2974-minimum-number-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Counting Sort
 |  |
 | ------- |
