@@ -262,6 +262,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2733-neither-minimum-nor-maximum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2942-find-words-containing-character](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -304,6 +305,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 ## Interactive
 |  |
 | ------- |
