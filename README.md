@@ -135,6 +135,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -239,6 +240,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
