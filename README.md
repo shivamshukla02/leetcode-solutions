@@ -271,6 +271,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3285-find-indices-of-stable-mountains](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3467-transform-array-by-parity](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -299,6 +300,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2733-neither-minimum-nor-maximum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3467-transform-array-by-parity](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
@@ -320,6 +322,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0169-majority-element](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3467-transform-array-by-parity](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
