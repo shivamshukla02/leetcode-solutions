@@ -240,6 +240,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0217-contains-duplicate](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -312,6 +313,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0242-valid-anagram](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -384,6 +386,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
@@ -436,6 +439,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Monotonic Stack
 |  |
