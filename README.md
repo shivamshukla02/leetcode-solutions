@@ -312,6 +312,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3875-construct-uniform-parity-array-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3917-count-indices-with-opposite-parity](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4020-elevator-requests-i) |
