@@ -46,6 +46,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2317-maximum-xor-after-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2396-strictly-palindromic-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2427-number-of-common-factors) |
@@ -135,6 +136,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0832-flipping-an-image](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [2317-maximum-xor-after-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2317-maximum-xor-after-operations) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Enumeration
 |  |
@@ -277,6 +279,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2317-maximum-xor-after-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
