@@ -108,6 +108,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -208,6 +209,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0242-valid-anagram](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -236,6 +238,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0345-reverse-vowels-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0832-flipping-an-image](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -270,6 +273,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1051-height-checker](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -356,6 +360,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
