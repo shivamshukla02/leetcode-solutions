@@ -187,6 +187,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2221-find-triangular-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2974-minimum-number-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -300,6 +301,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2942-find-words-containing-character](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2974-minimum-number-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -376,6 +378,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1748-sum-of-unique-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3467-transform-array-by-parity](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
