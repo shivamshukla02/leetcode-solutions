@@ -177,6 +177,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0258-add-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -260,6 +261,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -457,6 +459,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
