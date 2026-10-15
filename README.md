@@ -306,6 +306,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2960-count-tested-devices-after-test-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2974-minimum-number-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -354,6 +355,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2733-neither-minimum-nor-maximum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3074-apple-redistribution-into-boxes](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -420,6 +422,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0605-can-place-flowers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
+| [3074-apple-redistribution-into-boxes](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Minimax
 |  |
 | ------- |
