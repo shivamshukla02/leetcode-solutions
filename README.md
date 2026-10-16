@@ -215,6 +215,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1748-sum-of-unique-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1995-count-special-quadruplets](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -295,6 +296,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1995-count-special-quadruplets](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -400,6 +402,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1512-number-of-good-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -431,6 +434,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2000-reverse-prefix-of-word](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2942-find-words-containing-character](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
