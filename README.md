@@ -371,6 +371,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3898-find-the-degree-of-each-vertex](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3917-count-indices-with-opposite-parity](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3978-unique-middle-element](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3978-unique-middle-element) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Sorting
@@ -437,6 +438,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2960-count-tested-devices-after-test-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3978-unique-middle-element](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
