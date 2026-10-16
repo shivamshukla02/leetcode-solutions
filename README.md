@@ -238,6 +238,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0832-flipping-an-image](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -268,6 +269,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0169-majority-element](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0605-can-place-flowers) |
