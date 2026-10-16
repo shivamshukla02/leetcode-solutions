@@ -150,6 +150,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1995-count-special-quadruplets](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+| [2951-find-the-peaks](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Euclidean Algorithm
@@ -320,6 +321,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2942-find-words-containing-character](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [2951-find-the-peaks](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2974-minimum-number-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2974-minimum-number-game) |
