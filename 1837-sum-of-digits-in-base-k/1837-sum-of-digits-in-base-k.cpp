@@ -1,10 +1,10 @@
 class Solution {
 public:
     int sumBase(int n, int k) {
-        int sum=0;
+        int sum1=0;
         while(n>0){
-                sum+=n%k;
+                sum1+=n%k;
                 n=n/k;}
-        return sum;
+        return sum1;
     }
 };
