@@ -70,6 +70,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3232-find-if-digit-game-can-be-won](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -156,6 +157,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2367-number-of-arithmetic-triplets](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2951-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
