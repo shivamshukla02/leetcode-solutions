@@ -335,6 +335,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2317-maximum-xor-after-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2317-maximum-xor-after-operations) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -537,6 +538,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Combinatorics
