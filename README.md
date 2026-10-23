@@ -312,6 +312,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1480-running-sum-of-1d-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1534-count-good-triplets) |
+| [1550-three-consecutive-odds](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
