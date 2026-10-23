@@ -323,6 +323,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1748-sum-of-unique-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1929-concatenation-of-array) |
