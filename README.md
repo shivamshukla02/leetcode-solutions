@@ -57,6 +57,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2413-smallest-even-multiple](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
@@ -333,6 +334,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2367-number-of-arithmetic-triplets](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
