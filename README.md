@@ -67,6 +67,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2652-sum-multiples](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -353,6 +354,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2956-find-common-elements-between-two-arrays](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2974-minimum-number-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -415,6 +417,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2733-neither-minimum-nor-maximum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -567,4 +570,8 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
