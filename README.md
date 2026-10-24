@@ -256,6 +256,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3945-digit-frequency-score](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -401,6 +402,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3833-count-dominant-indices](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3833-count-dominant-indices) |
