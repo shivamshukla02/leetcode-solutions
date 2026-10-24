@@ -20,6 +20,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0342-power-of-four](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -292,6 +293,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0605-can-place-flowers) |
