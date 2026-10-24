@@ -36,6 +36,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1492-the-kth-factor-of-n](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -131,6 +132,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -180,6 +182,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 ## Prime Factorization
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1952-three-divisors) |
 ## Sieve Theory
 |  |
