@@ -43,6 +43,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1518-water-bottles](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -332,6 +333,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1534-count-good-triplets](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -440,6 +442,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -527,6 +530,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0561-array-partition](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -543,6 +547,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | ------- |
 | [0292-nim-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Nim Game
 |  |
 | ------- |
