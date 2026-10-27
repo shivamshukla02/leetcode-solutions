@@ -234,6 +234,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0217-contains-duplicate](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -302,6 +303,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -431,6 +433,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0242-valid-anagram](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
