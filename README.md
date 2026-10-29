@@ -273,6 +273,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0832-flipping-an-image](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -318,6 +319,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
