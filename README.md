@@ -220,6 +220,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2553-separate-the-digits-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2974-minimum-number-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -394,6 +395,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2956-find-common-elements-between-two-arrays](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2974-minimum-number-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
