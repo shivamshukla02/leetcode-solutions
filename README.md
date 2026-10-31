@@ -427,6 +427,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3898-find-the-degree-of-each-vertex](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3917-count-indices-with-opposite-parity](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3978-unique-middle-element](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3978-unique-middle-element) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4020-elevator-requests-i) |
@@ -474,6 +475,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3536-maximum-product-of-two-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3745-maximize-expression-of-three-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -549,6 +551,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2706-buy-two-chocolates](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3745-maximize-expression-of-three-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Minimax
 |  |
 | ------- |
