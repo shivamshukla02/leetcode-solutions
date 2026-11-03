@@ -532,6 +532,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1071-greatest-common-divisor-of-strings](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2000-reverse-prefix-of-word](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -548,6 +549,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0605-can-place-flowers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
