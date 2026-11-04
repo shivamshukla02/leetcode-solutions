@@ -280,6 +280,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1089-duplicate-zeros](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -354,6 +355,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1822-sign-of-the-product-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -462,6 +464,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -560,6 +563,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
