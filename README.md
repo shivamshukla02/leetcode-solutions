@@ -265,6 +265,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3668-restore-finishing-order) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3945-digit-frequency-score](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3945-digit-frequency-score) |
@@ -425,6 +426,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -487,6 +489,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -580,6 +583,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2706-buy-two-chocolates](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Minimax
