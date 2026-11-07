@@ -297,6 +297,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3884-first-matching-character-from-both-ends](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -494,6 +495,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3745-maximize-expression-of-three-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -564,6 +566,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3498-reverse-degree-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3894-traffic-signal-color) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Greedy
 |  |
 | ------- |
