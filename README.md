@@ -304,6 +304,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2540-minimum-common-value](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2938-separate-black-and-white-balls](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -582,6 +583,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2864-maximum-odd-binary-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
+| [2938-separate-black-and-white-balls](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -609,6 +611,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
+| [2938-separate-black-and-white-balls](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
