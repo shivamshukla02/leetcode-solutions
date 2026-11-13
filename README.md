@@ -277,6 +277,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -567,6 +568,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
