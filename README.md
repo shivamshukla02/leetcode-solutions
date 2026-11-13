@@ -204,6 +204,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | ------- |
 | [0258-add-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0832-flipping-an-image](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1518-water-bottles) |
@@ -323,6 +324,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0442-find-all-duplicates-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0495-teemo-attacking](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0605-can-place-flowers) |
