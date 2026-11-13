@@ -309,6 +309,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3794-reverse-string-prefix](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -462,6 +463,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3978-unique-middle-element](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3978-unique-middle-element) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Sorting
 |  |
@@ -517,6 +519,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -616,6 +619,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/shivamshukla02/leetcode-solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Minimax
 |  |
 | ------- |
