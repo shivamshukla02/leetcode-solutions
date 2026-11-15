@@ -298,6 +298,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0917-reverse-only-letters](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0942-di-string-match) |
+| [0948-bag-of-tokens](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -365,6 +366,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0908-smallest-range-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0942-di-string-match) |
+| [0948-bag-of-tokens](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1051-height-checker) |
@@ -510,6 +512,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0881-boats-to-save-people](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0948-bag-of-tokens](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -634,6 +637,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0605-can-place-flowers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0942-di-string-match) |
+| [0948-bag-of-tokens](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1323-maximum-69-number) |
