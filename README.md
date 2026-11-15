@@ -315,6 +315,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
+| [2592-maximize-greatness-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2938-separate-black-and-white-balls](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
@@ -434,6 +435,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2549-count-distinct-numbers-on-board](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
+| [2592-maximize-greatness-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -528,6 +530,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2475-number-of-unequal-triplets-in-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2592-maximize-greatness-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -637,6 +640,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2592-maximize-greatness-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
