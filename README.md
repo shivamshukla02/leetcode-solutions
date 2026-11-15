@@ -224,6 +224,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2500-delete-greatest-value-in-each-row](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2974-minimum-number-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -306,6 +307,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2465-number-of-distinct-averages](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2938-separate-black-and-white-balls](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
@@ -421,6 +423,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2540-minimum-common-value](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
