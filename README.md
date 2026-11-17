@@ -251,6 +251,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0442-find-all-duplicates-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1122-relative-sort-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -374,6 +375,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0977-squares-of-a-sorted-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1122-relative-sort-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -520,6 +522,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0948-bag-of-tokens](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -721,6 +724,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | ------- |
 | [0561-array-partition](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -732,11 +736,13 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 ## Quicksort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
