@@ -633,6 +633,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2109-adding-spaces-to-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2864-maximum-odd-binary-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
