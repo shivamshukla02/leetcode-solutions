@@ -225,6 +225,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2169-count-operations-to-obtain-zero](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2293-min-max-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -428,6 +429,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2293-min-max-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2293-min-max-game) |
 | [2317-maximum-xor-after-operations](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
