@@ -98,6 +98,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -346,6 +347,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [0035-search-insert-position](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shivamshukla02/leetcode-solutions/tree/master/0169-majority-element) |
