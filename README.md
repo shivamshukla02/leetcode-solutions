@@ -651,6 +651,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [3110-score-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
+| [3856-trim-trailing-vowels](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
