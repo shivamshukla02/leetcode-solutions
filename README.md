@@ -652,6 +652,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2942-find-words-containing-character](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3110-score-of-a-string) |
+| [3340-check-balanced-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3856-trim-trailing-vowels](https://github.com/shivamshukla02/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
