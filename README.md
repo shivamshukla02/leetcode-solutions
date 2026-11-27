@@ -310,6 +310,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -635,6 +636,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1768-merge-strings-alternately](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/shivamshukla02/leetcode-solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2000-reverse-prefix-of-word](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
