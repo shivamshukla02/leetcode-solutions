@@ -430,6 +430,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2293-min-max-game) |
@@ -547,6 +548,7 @@ Here,I upload daily leetcode problems solved by me with simple solutions.
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shivamshukla02/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
